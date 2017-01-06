@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2017-01-06T11:17:30.058">
+<file name="H:\workspace\TP1\src\main\java\C\TP1\JXBusyLabelTest.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Import Statement Rules" package="C.TP1" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.awt.FlowLayout'
+</violation>
+</file>
+</pmd>
